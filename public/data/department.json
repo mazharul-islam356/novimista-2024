@@ -1,0 +1,24 @@
+  [
+      {
+        "SL": 1,
+        "department_name": "Agriculture",
+        "department_code": "AG001",
+        "created_at": "2024-10-23",
+        "updated_at": "2024-09-08"
+      },
+      {
+        "SL": 2,
+        "department_name": "Research",
+        "department_code": "RS002",
+        "created_at": "2020-01-15",
+        "updated_at": "2014-12-28"
+      },
+      {
+        "SL": 3,
+        "department_name": "Marketing",
+        "department_code": "MK003",
+        "created_at": "2023-11-18",
+        "updated_at": "2017-05-30"
+      }
+    ]
+ 

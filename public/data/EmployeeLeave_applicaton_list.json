@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "company": "AgriGrow Inc.",
+      "leave_name": "Annual Leave",
+      "total_day": 15,
+      "action_button": "Approve"
+    },
+    {
+      "id": 2,
+      "company": "GreenFields Ltd.",
+      "leave_name": "Sick Leave",
+      "total_day": 10,
+      "action_button": "Approve"
+    },
+    {
+      "id": 3,
+      "company": "FarmTech Solutions",
+      "leave_name": "Maternity Leave",
+      "total_day": 30,
+      "action_button": "Reject"
+    },
+    {
+      "id": 4,
+      "company": "Harvest Innovations",
+      "leave_name": "Paternity Leave",
+      "total_day": 14,
+      "action_button": "Approve"
+    },
+    {
+      "id": 5,
+      "company": "Organic Growth Co.",
+      "leave_name": "Study Leave",
+      "total_day": 20,
+      "action_button": "Approve"
+    },
+    {
+      "id": 6,
+      "company": "FreshAg Farms",
+      "leave_name": "Compassionate Leave",
+      "total_day": 7,
+      "action_button": "Approve"
+    },
+    {
+      "id": 7,
+      "company": "EcoFarm Technologies",
+      "leave_name": "Annual Leave",
+      "total_day": 18,
+      "action_button": "Reject"
+    },
+    {
+      "id": 8,
+      "company": "AgroCrops Global",
+      "leave_name": "Sick Leave",
+      "total_day": 8,
+      "action_button": "Approve"
+    },
+    {
+      "id": 9,
+      "company": "Sustainable Farming Ltd.",
+      "leave_name": "Maternity Leave",
+      "total_day": 26,
+      "action_button": "Reject"
+    },
+    {
+      "id": 10,
+      "company": "AgriTech Ventures",
+      "leave_name": "Annual Leave",
+      "total_day": 12,
+      "action_button": "Approve"
+    }
+  ]
+  

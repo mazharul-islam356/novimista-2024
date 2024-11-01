@@ -1,0 +1,62 @@
+[
+    {
+      "designation_name": "Software Engineer",
+      "designation_code": "SE",
+      "created_at": "2023-11-22T12:34:56Z",
+      "updated_at": "2023-11-22T12:34:56Z"
+    },
+    {
+      "designation_name": "Project Manager",
+      "designation_code": "PM",
+      "created_at": "2023-11-23T13:45:00Z",
+      "updated_at": "2023-11-23T13:45:00Z"
+    },
+    {
+      "designation_name": "Data Scientist",
+      "designation_code": "DS",
+      "created_at": "2023-11-24T14:56:00Z",
+      "updated_at": "2023-11-24T14:56:00Z"
+    },
+    {
+      "designation_name": "UI/UX Designer",
+      "designation_code": "UID",
+      "created_at": "2023-11-25T15:07:00Z",
+      "updated_at": "2023-11-25T15:07:00Z"
+    },
+    {
+      "designation_name": "DevOps Engineer",
+      "designation_code": "DE",
+      "created_at": "2023-11-26T16:18:00Z",
+      "updated_at": "2023-11-26T16:18:00Z"
+    },
+    {
+      "designation_name": "Business Analyst",
+      "designation_code": "BA",
+      "created_at": "2023-11-27T17:29:00Z",
+      "updated_at": "2023-11-27T17:29:00Z"
+    },
+    {
+      "designation_name": "Quality Assurance Engineer",
+      "designation_code": "QA",
+      "created_at": "2023-11-28T18:30:00Z",
+      "updated_at": "2023-11-28T18:30:00Z"
+    },
+    {
+      "designation_name": "Technical Writer",
+      "designation_code": "TW",
+      "created_at": "2023-11-29T19:41:00Z",
+      "updated_at": "2023-11-29T19:41:00Z"
+    },
+    {
+      "designation_name": "Product Manager",
+      "designation_code": "PMP",
+      "created_at": "2023-11-30T20:52:00Z",
+      "updated_at": "2023-11-30T20:52:00Z"
+    },
+    {
+      "designation_name": "Cybersecurity Analyst",
+      "designation_code": "CSA",
+      "created_at": "2023-12-01T21:03:00Z",
+      "updated_at": "2023-12-01T21:03:00Z"
+    }
+  ]
